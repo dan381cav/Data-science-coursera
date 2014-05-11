@@ -1,2 +1,2 @@
-Data-science-Toolbox
+Data-science-coursera
 ====================
